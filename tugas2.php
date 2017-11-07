@@ -10,7 +10,7 @@ switch ($pilih){
 		for ($i=1; $i <= $n; $i++){
 			if($i % 2 == 0 && $i != 4){
 				$jGenap++;
-				echo $i . "<br>";
+//				echo $i . "<br>";
 				$jumlah+=$i;				
 			}
 		}
